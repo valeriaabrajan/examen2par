@@ -1,1 +1,1 @@
-# examen2parcial
+# Examen correspondiente al Segundo Parcial
